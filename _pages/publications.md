@@ -15,6 +15,8 @@ nav_order: 2
 
 <div class="publications">
 
+My full publication list can be found on my Google Scholar page or my CV.
+
 {% bibliography %}
 
 </div>
