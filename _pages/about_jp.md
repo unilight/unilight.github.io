@@ -12,6 +12,9 @@ profile:
 
 social: true # includes social icons at the bottom of the page
 selected_papers: true # includes a list of papers marked as "selected={true}"
+
+nav: true
+nav_order: 1
 ---
 
 ### HUANG Wen-Chin (ホワン　ウェンチン)
