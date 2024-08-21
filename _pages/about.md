@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Assistant Professor, <a href="https://www.toda.is.i.nagoya-u.ac.jp">Toda Laboratory</a>.<br>Graduate School of Informatics, Nagoya University.
 
 profile:
   align: right
@@ -16,9 +16,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Assistant Professor, [Toda Laboratory](https://www.toda.is.i.nagoya-u.ac.jp)<br>
-Graduate School of Informatics, Nagoya University.
-
 **Education.** I was born in Taiwan and now based in Nagoya, Japan. I received M.S. and Ph.D. from the Graduate School of Informatics, Nagoya University in 2021 and 2024, respectively. I received B.S. in Computer Science and Information Engineering from National Taiwan University in 2018.
 
 **Work experience.** I worked as a student researcher at Google Japan from April 2023 to March 2024, under the supervision of Yuma Koizumi. From May to September 2022, I was an research intern at FAIR (Fundamental AI Research), Meta, working on speech-to-speech translation, under the supervision of Peng-Jen Chen. From August 2021 to February 2022, I was an research intern at Reality Labs Research (RL-R), Meta, working on binaural speech synthesis, under the supervision of Dejan Markovic. From August 2019 to September 2019, I interned at the _NTT Communication Science Laboratories, NTT Corporation_ under the supervision of Prof. Hirokazu Kameoka. I work closely with the _Institute of Information Science in Academia Sinica_, Taipei, Taiwan with advisors Prof. Hsin-Min Wang and Prof. Yu Tsao, where I was a research assistant from July 2017 to March 2019. 
@@ -27,6 +24,6 @@ Graduate School of Informatics, Nagoya University.
 
 **My research interest** focuses on speech processing, with a main focus on voice conversion, speech synthesis, and speech quality assessment. I also work on related applications including speaking-aid and accent conversion.
 
-When I am not doing research, I spend most of the time street dancing. I have been dancing for 10 years. Check out [this video](https://www.youtube.com/watch?v=7kfGe7zuQ5g), [this video](https://www.youtube.com/watch?v=vkiC1dORUCU), [this video](https://www.youtube.com/watch?v=uNDdkA3Qcn4), [this video](https://www.youtube.com/watch?v=fxYIFZeStu0), and [this video](https://www.youtube.com/watch?v=Xwy6jYQ678Q). Recently I also started golfing.
+When I am not doing research, I spend most of the time street dancing. I have been dancing for 10 years. Check out [this video](https://www.youtube.com/watch?v=7kfGe7zuQ5g), [this video](https://www.youtube.com/watch?v=vkiC1dORUCU), [this video](https://www.youtube.com/watch?v=uNDdkA3Qcn4), [this video](https://www.youtube.com/watch?v=fxYIFZeStu0), and [this video](https://www.youtube.com/watch?v=Xwy6jYQ678Q). Recently I also started golfing. My best score is 96 (regular tee).
 
 My CV can be downloaded [here](../assets/pdf/CV-wchuang.pdf){:target="_blank"}.
