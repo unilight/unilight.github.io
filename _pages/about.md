@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Assistant Professor, <a href="https://www.toda.is.i.nagoya-u.ac.jp">Toda Laboratory</a>.<br>Graduate School of Informatics, Nagoya University.
 
