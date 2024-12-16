@@ -24,6 +24,6 @@ social: true # includes social icons at the bottom of the page
 
 **My research interest** focuses on speech processing, with a main focus on voice conversion, speech synthesis, and speech quality assessment. I also work on related applications including speaking-aid and accent conversion.
 
-When I am not doing research, I spend most of the time street dancing. I have been dancing for 10 years. Check out [this video](https://www.youtube.com/watch?v=7kfGe7zuQ5g), [this video](https://www.youtube.com/watch?v=vkiC1dORUCU), [this video](https://www.youtube.com/watch?v=uNDdkA3Qcn4), [this video](https://www.youtube.com/watch?v=fxYIFZeStu0), and [this video](https://www.youtube.com/watch?v=Xwy6jYQ678Q). Recently I also started golfing. My best score is 96 (regular tee).
+When I am not doing research, I spend most of the time street dancing. I have been dancing for 10 years. Check out [this video](https://www.youtube.com/watch?v=7kfGe7zuQ5g), [this video](https://www.youtube.com/watch?v=vkiC1dORUCU), [this video](https://www.youtube.com/watch?v=uNDdkA3Qcn4), [this video](https://www.youtube.com/watch?v=fxYIFZeStu0), and [this video](https://www.youtube.com/watch?v=Xwy6jYQ678Q). Recently I also started golfing. My best score is 95 (regular tee).
 
 My CV can be downloaded [here](../assets/pdf/CV-wchuang.pdf){:target="_blank"}.
