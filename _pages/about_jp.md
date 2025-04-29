@@ -22,6 +22,7 @@ nav_order: 1
 知能システム専攻　基盤知能情報学講座　[戸田研究室](https://www.toda.is.i.nagoya-u.ac.jp/index.html) <br>
 E-mail: wen.chinhuang@g.sp.m.is.nagoya-u.ac.jp <br>
 [CV](../assets/pdf/CV-wchuang.pdf){:target="_blank"}
+[Researchmap](https://researchmap.jp/wenchinhuang){:target="_blank"}
 
 #### 研究分野
 - 音声信号処理
@@ -57,11 +58,13 @@ E-mail: wen.chinhuang@g.sp.m.is.nagoya-u.ac.jp <br>
 - 2021年4月ー2024年3月　日本学術振興会　特別研究員DC1
 - 2023年　Singing Voice Conversion Challenge（歌声変換技術国際評価会）共催
 - 2022年　VoiceMOS Challenge（合成音声自動評価技術国際評価会）共催
-- 2023年　Voice Conversion Challenge（音声変換技術国際評価会）共催
+- 2023年　Singing Voice Conversion Challenge（歌声変換技術国際評価会）共催
 - 2023年　VoiceMOS Challenge（合成音声自動評価技術国際評価会）共催
 - 2024年　VoiceMOS Challenge（合成音声自動評価技術国際評価会）共催
+- 2023年　Singing Voice Conversion Challenge（歌声変換技術国際評価会）共催
+- 2025年　AudioMOS Challenge（音自動評価技術国際評価会）共催
 
-#### 言語能力
+#### 言語能力（流暢順）
 - 中国語：母語
 - 英語：上級（TOEFL: 108; TOEIC: 960)
-- 日本語：中上級（JLPT: N2）
+- 日本語：ビジネス（JLPT: N1）
