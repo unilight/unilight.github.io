@@ -26,9 +26,9 @@ E-mail: wen.chinhuang@g.sp.m.is.nagoya-u.ac.jp <br>
 
 #### 研究分野
 - 音声信号処理
+  - 音声品質自動評価
   - 音声変換
   - 音声合成
-  - 合成音声自動評価
   - 発声障碍者補助
 - 深層学習
   - Sequence-to-sequence modeling
@@ -54,15 +54,22 @@ E-mail: wen.chinhuang@g.sp.m.is.nagoya-u.ac.jp <br>
 - 2021年12月　13th Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)　最優秀学生論文賞
 - 2018年11月　11th International Symposium on Chinese Spoken Language Processing (ISCSLP)　最優秀学生論文賞
 
-#### 活動
+#### 助成金
 - 2021年4月ー2024年3月　日本学術振興会　特別研究員DC1
-- 2023年　Singing Voice Conversion Challenge（歌声変換技術国際評価会）共催
-- 2022年　VoiceMOS Challenge（合成音声自動評価技術国際評価会）共催
-- 2023年　Singing Voice Conversion Challenge（歌声変換技術国際評価会）共催
-- 2023年　VoiceMOS Challenge（合成音声自動評価技術国際評価会）共催
-- 2024年　VoiceMOS Challenge（合成音声自動評価技術国際評価会）共催
-- 2023年　Singing Voice Conversion Challenge（歌声変換技術国際評価会）共催
-- 2025年　AudioMOS Challenge（音自動評価技術国際評価会）共催
+- 2024年9月　Google　寄付金　Google Research Grant
+- 2024年11月　Meta　寄付金　Audiobox Responsible Generation Grant
+- 2025年4月ー2029年3月　日本学術振興会　科学研究費補助金　基盤研究（Ｂ）分担（代表：Erica Cooper（NICT）） "Universal, explainable and extensible automatic evaluation of synthesized speech"
+
+#### 学術活動
+- 2023年    Singing Voice Conversion Challenge（歌声変換技術国際評価会）共催
+- 2022年　  VoiceMOS Challenge（合成音声自動評価技術国際評価会）共催
+- 2023年　  Singing Voice Conversion Challenge（歌声変換技術国際評価会）共催
+- 2023年　  VoiceMOS Challenge（合成音声自動評価技術国際評価会）共催
+- 2024年    VoiceMOS Challenge（合成音声自動評価技術国際評価会）共催
+- 2023年    Singing Voice Conversion Challenge（歌声変換技術国際評価会）共催
+- 2025年    AudioMOS Challenge（音自動評価技術国際評価会）共催
+- 2024年ー  日本音響学会研究発表会　副座長
+- 2025年    INTERSPEECH　座長
 
 #### 言語能力（流暢順）
 - 中国語：母語
