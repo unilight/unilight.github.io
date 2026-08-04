@@ -22,7 +22,7 @@ nav_order: 1
 名古屋大学　[大学院情報学研究科](https://www.i.nagoya-u.ac.jp/graduate-school-of-informatics/)　助教  <br>
 知能システム専攻　基盤知能情報学講座　[戸田研究室](https://www.toda.is.i.nagoya-u.ac.jp/index.html) <br>
 E-mail: wen.chinhuang@g.sp.m.is.nagoya-u.ac.jp <br>
-[CV](../assets/pdf/CV-wchuang.pdf){:target="_blank"}
+[CV](../assets/pdf/CV.pdf){:target="_blank"}
 [Researchmap](https://researchmap.jp/wenchinhuang){:target="_blank"}
 
 #### 研究分野
