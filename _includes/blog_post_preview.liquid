@@ -1,0 +1,13 @@
+{%- assign post = include.post -%}
+{%- assign body = post.feed_content | default: post.content | blog_plain_text -%}
+{%- assign summary = post.description | blog_plain_text -%}
+{%- assign preview = summary | default: body -%}
+{%- assign language_sample = body | default: summary | default: post.title -%}
+{%- assign detected_language = language_sample | blog_language -%}
+{%- assign language = post.language | default: detected_language -%}
+{% if preview != blank %}
+  <p class="blog-post-preview">{{ preview | escape }}</p>
+{% endif %}
+{% if language != blank %}
+  <span class="blog-language-tag">{{ language | escape }}</span>
+{% endif %}

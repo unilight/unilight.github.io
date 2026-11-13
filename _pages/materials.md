@@ -14,6 +14,7 @@ nav_order: 6
 
 ## Talk materials
 
+- 2026.11.11, **An Overview of Automatic Speech Quality Assessment**, guest lecture, Carnegie Mellon University, online. [[Slides](../assets/others/20261111-cmu-sqa.pdf)]
 - 2025.8.17, **Automatic Quality Assessment for Speech and Beyond**, tutorial, INTERSPEECH 2025, Rotterdam, Netherlands. [[Slides](https://voicemos-challenge-2023.github.io/speech-synthesis-evaluation/IS2025_tutorial.pdf)]
 - 2025.5.15, **Automatic Quality Assessment for Speech and Beyond**, invited talk, Conversational AI Reading Group, MILA, online. [[Slides](../assets/others/20250515-convai-mila-rg.pdf)]
 - 2024.10.25, **深層学習に基づく音声変換の進展と展望**, invited talk, [SP/SLP](https://ken.ieice.org/ken/program/index.php?tgs_regid=1e123e2e4f2c2b52bf6e5759b39cf1404e85a5e112804baf829d6e661762190f&tgid=IEICE-SP), online, 2024. [[Slides](../assets/others/20241025-spslp.pptx)]

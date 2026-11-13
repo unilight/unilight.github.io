@@ -546,6 +546,24 @@ footer.sticky-bottom {
   }
 }
 
+.blog-post-preview {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
+  overflow-wrap: anywhere;
+}
+
+.blog-language-tag {
+  display: inline-block;
+  margin-bottom: 0.5rem;
+  padding: 0.125rem 0.5rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.25rem;
+  color: var(--global-text-color);
+  font-size: 0.75rem;
+}
+
 .post-list {
   margin: 0;
   margin-bottom: 40px;
