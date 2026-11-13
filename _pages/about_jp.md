@@ -23,7 +23,7 @@ nav_order: 1
 名古屋大学　[大学院情報学研究科](https://www.i.nagoya-u.ac.jp/graduate-school-of-informatics/)　助教 <br>
 知能システム専攻　基盤知能情報学講座　[戸田研究室](https://www.toda.is.i.nagoya-u.ac.jp/index.html) <br>
 E-mail: wen.chinhuang@g.sp.m.is.nagoya-u.ac.jp <br>
-[CV](../assets/pdf/CV.pdf){:target="_blank"}
+[CV](../assets/pdf/CV-20261113.pdf){:target="_blank"}
 [Researchmap](https://researchmap.jp/wenchinhuang){:target="_blank"}
 
 #### 研究分野
@@ -41,8 +41,8 @@ E-mail: wen.chinhuang@g.sp.m.is.nagoya-u.ac.jp <br>
 #### 教育
 
 - 2018年6月　台湾大学　情報学部　卒業
-- 2021年3月　名古屋大学　大学院情報学研究科　知能システム専攻　博士前期課程
-- 2024年3月　名古屋大学　大学院情報学研究科　知能システム専攻　博士後期課程
+- 2021年3月　名古屋大学　大学院情報学研究科　知能システム専攻　博士前期課程　修了
+- 2024年3月　名古屋大学　大学院情報学研究科　知能システム専攻　博士後期課程　修了
 
 #### 職歴
 
@@ -55,37 +55,37 @@ E-mail: wen.chinhuang@g.sp.m.is.nagoya-u.ac.jp <br>
 
 #### 受賞
 
+- 2026年6月　音声研究会研究奨励賞
 - 2023年6月 名古屋大学　学術奨励賞
 - 2022年12月　16th IEEE Signal Processing Society Japan　最優秀学生論文賞
 - 2021年12月　13th Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)　最優秀学生論文賞
 - 2018年11月　11th International Symposium on Chinese Spoken Language Processing (ISCSLP)　最優秀学生論文賞
-- 2026年5月　音声研究会研究奨励賞
 
 #### 助成金
 
-- 2021年4月ー2024年3月　日本学術振興会　特別研究員DC1
+- 2021年4月ー2024年3月　日本学術振興会　特別研究員DC1 "[多元信号を用いたリアルタイム低遅延音声変換による音声コミュニケーション拡張](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22KJ1519)"
 - 2024年9月　Google　寄付金　Google Research Grant
 - 2024年11月　Meta　寄付金　Audiobox Responsible Generation Grant
-- 2025年4月ー2029年3月　日本学術振興会　科学研究費補助金　基盤研究（Ｂ） 分担（代表：Erica Cooper（NICT）） "Universal, explainable and extensible automatic evaluation of synthesized speech"
-- 2026年4月ー2030年3月　日本学術振興会　科学研究費補助金　基盤研究（Ａ） 分担（代表：戸田智基（名大）） "信頼性と制御性を備えた音声メディア生成技術の構築および国際的研究活動の展開"
-- 2026年4月ー2030年3月　日本学術振興会　科学研究費補助金　若手研究 代表 "プライバシー保護と創造性を両立する音声合成の新たな設計枠組みに関する研究"
+- 2025年4月ー2029年3月　日本学術振興会　科学研究費補助金　基盤研究（Ｂ） 分担（代表：Erica Cooper（NICT）） "[Universal, explainable and extensible automatic evaluation of synthesized speech](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25K00143/)"
+- 2026年4月ー2030年3月　日本学術振興会　科学研究費補助金　基盤研究（Ａ） 分担（代表：戸田智基（名大）） "[信頼性と制御性を備えた音声メディア生成技術の構築および国際的研究活動の展開](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-26H02530/)"
+- 2026年4月ー2029年3月　日本学術振興会　科学研究費補助金　若手研究 代表 "[プライバシー保護と創造性を両立する音声合成の新たな設計枠組みに関する研究](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-26K21309/)"
 
 #### 学術活動
 
-- 2023年 Singing Voice Conversion Challenge（歌声変換技術国際評価会）共催
-- 2022年　 VoiceMOS Challenge（合成音声自動評価技術国際評価会）共催
-- 2023年　 Singing Voice Conversion Challenge（歌声変換技術国際評価会）共催
-- 2023年　 VoiceMOS Challenge（合成音声自動評価技術国際評価会）共催
-- 2024年 VoiceMOS Challenge（合成音声自動評価技術国際評価会）共催
-- 2023年 Singing Voice Conversion Challenge（歌声変換技術国際評価会）共催
-- 2025年 AudioMOS Challenge（音自動評価技術国際評価会）共催
-- 2024年ー 日本音響学会研究発表会　副座長
-- 2025年 INTERSPEECH　座長
-- 2026年 VoiceMOS Challenge（合成音声自動評価技術国際評価会）共催
-- 2026年 IEEE ISCSLP Special Session Chair
+- 2023年    Singing Voice Conversion Challenge（歌声変換技術国際評価会）共催
+- 2022年    VoiceMOS Challenge（合成音声自動評価技術国際評価会）共催
+- 2023年    Singing Voice Conversion Challenge（歌声変換技術国際評価会）共催
+- 2023年    VoiceMOS Challenge（合成音声自動評価技術国際評価会）共催
+- 2024年    VoiceMOS Challenge（合成音声自動評価技術国際評価会）共催
+- 2023年    Singing Voice Conversion Challenge（歌声変換技術国際評価会）共催
+- 2025年    AudioMOS Challenge（音自動評価技術国際評価会）共催
+- 2024年ー  日本音響学会研究発表会　副座長
+- 2025年ー  INTERSPEECH　座長
+- 2026年    VoiceMOS Challenge（合成音声自動評価技術国際評価会）共催
+- 2026年    IEEE ISCSLP Special Session Chair
 
 #### 言語能力（流暢順）
 
 - 中国語：母語
 - 英語：上級（TOEFL: 108; TOEIC: 960）
-- 日本語：ビジネス（JLPT: N1）
+- 日本語：上級（JLPT: N1）

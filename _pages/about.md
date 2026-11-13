@@ -27,4 +27,4 @@ social: true # includes social icons at the bottom of the page
 When I am not doing research, I spend most of my time golfing. I have been golfing since 2023. My best score is 83 (regular tee). <br>
 I have also been dancing for 10+ years, although I do not dance as much as I did previously. Check out [this video](https://www.youtube.com/watch?v=7kfGe7zuQ5g), [this video](https://www.youtube.com/watch?v=vkiC1dORUCU), [this video](https://www.youtube.com/watch?v=uNDdkA3Qcn4), [this video](https://www.youtube.com/watch?v=fxYIFZeStu0), and [this video](https://www.youtube.com/watch?v=Xwy6jYQ678Q).
 
-My CV can be downloaded [here](../assets/pdf/CV.pdf){:target="_blank"}.
+My CV can be downloaded [here](../assets/pdf/CV-20261113.pdf){:target="_blank"}.
