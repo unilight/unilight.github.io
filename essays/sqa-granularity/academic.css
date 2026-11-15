@@ -1,0 +1,205 @@
+/*
+ * Academic — a lightweight stylesheet for Quarto HTML essays.
+ * Original CSS; free to use and modify. No external fonts or dependencies.
+ *
+ * Put this file beside your .qmd document. Suggested YAML:
+ * format:
+ *   html:
+ *     theme: cosmo
+ *     css: academic.css
+ *     toc: true
+ *     citations-hover: true
+ *     link-citations: true
+ *     grid:
+ *       body-width: 740px
+ * bibliography: references.bib
+ *
+ * Citation numbering comes from a numeric CSL style, not CSS.
+ * Hover behavior is supplied by Quarto, not this stylesheet.
+ * Designed for a light theme.
+ */
+
+:root {
+  --academic-paper: #fffefa;
+  --academic-ink: #252522;
+  --academic-muted: #62625c;
+  --academic-accent: #285575;
+  --academic-rule: #dcdcd3;
+  --academic-wash: #f4f3ee;
+  --academic-serif: Charter, "Bitstream Charter", "Iowan Old Style",
+    "Palatino Linotype", Palatino, Georgia, "Noto Serif CJK JP", serif;
+  --academic-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --bs-body-bg: var(--academic-paper);
+  --bs-body-color: var(--academic-ink);
+  --bs-link-color: var(--academic-accent);
+}
+
+body {
+  background: var(--academic-paper);
+  color: var(--academic-ink);
+  font-family: var(--academic-serif);
+  font-size: 18px;
+  line-height: 1.75;
+}
+
+main.content { min-width: 0; padding-bottom: 3rem; }
+main p { margin-bottom: 1.15em; }
+main :is(p, li, dd) { overflow-wrap: break-word; }
+main :is(h1, h2, h3, h4) {
+  font-family: var(--academic-serif);
+  color: var(--academic-ink);
+  line-height: 1.25;
+  font-weight: 600;
+  scroll-margin-top: 2rem;
+}
+main h1 { font-size: 2.3rem; letter-spacing: -.025em; }
+main h2 { font-size: 1.65rem; margin-top: 2.5rem; padding: 0; border: 0; }
+main h3 { font-size: 1.25rem; margin-top: 1.8rem; }
+main h4 { font-size: 1.05rem; margin-top: 1.5rem; }
+
+#title-block-header {
+  margin: 2rem 0 2.3rem;
+  padding-bottom: 1.8rem;
+  border-bottom: 1px solid var(--academic-rule);
+}
+#title-block-header .title { margin-bottom: .65rem; }
+#title-block-header .subtitle {
+  color: var(--academic-muted);
+  font-size: 1.2rem;
+  line-height: 1.5;
+  font-weight: 400;
+}
+.quarto-title-meta {
+  font-family: var(--academic-sans);
+  font-size: .85rem;
+  color: var(--academic-muted);
+}
+.quarto-title-meta-heading { letter-spacing: .06em; }
+.quarto-title-meta-contents p { margin-bottom: .25rem; }
+
+a {
+  color: var(--academic-accent);
+  text-decoration-thickness: .06em;
+  text-underline-offset: .18em;
+}
+a:hover { color: #163b56; text-decoration: underline; }
+a:focus-visible {
+  outline: 2px solid var(--academic-accent);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+a[role="doc-biblioref"] {
+  text-decoration: none;
+  font-variant-numeric: lining-nums;
+}
+a[role="doc-biblioref"]:hover { text-decoration: underline; }
+
+/* Quarto citation and footnote popovers. */
+.tippy-box[data-theme~="quarto"] {
+  background: var(--academic-paper);
+  color: var(--academic-ink);
+  border: 1px solid var(--academic-rule);
+  border-radius: 5px;
+  box-shadow: 0 5px 24px rgb(0 0 0 / 10%);
+  font-family: var(--academic-serif);
+  font-size: .9rem;
+  line-height: 1.55;
+}
+.tippy-box[data-theme~="quarto"] .tippy-content {
+  padding: .85rem 1rem;
+  overflow-wrap: anywhere;
+}
+.tippy-box[data-theme~="quarto"] .hanging-indent {
+  margin-left: 0;
+  text-indent: 0;
+}
+.tippy-box[data-theme~="quarto"] .csl-entry { margin-bottom: 0; }
+
+#refs {
+  font-size: .9rem;
+  line-height: 1.6;
+  overflow-wrap: anywhere;
+}
+#refs .csl-entry { margin-bottom: .8rem; }
+#refs .csl-left-margin { color: var(--academic-muted); }
+.footnotes {
+  margin-top: 2.5rem;
+  color: var(--academic-muted);
+  font-size: .85rem;
+}
+
+blockquote {
+  border-left: 3px solid var(--academic-rule);
+  padding: .2rem 0 .2rem 1.2rem;
+  margin: 1.7rem 0;
+  color: var(--academic-muted);
+}
+blockquote p:last-child { margin-bottom: 0; }
+hr { border: 0; border-top: 1px solid var(--academic-rule); margin: 2rem 0; opacity: 1; }
+main li { margin-bottom: .35em; }
+main li > p { margin-bottom: .5em; }
+
+figure { margin: 2rem 0; }
+main img { max-width: 100%; height: auto; }
+figcaption, .figure-caption, .table-caption {
+  font-family: var(--academic-sans);
+  color: var(--academic-muted);
+  font-size: .8rem;
+  line-height: 1.55;
+  margin-top: .65rem;
+}
+table {
+  font-size: .9rem;
+  line-height: 1.5;
+  border-color: var(--academic-rule);
+}
+table thead { border-top: 2px solid var(--academic-ink); border-bottom: 1px solid var(--academic-ink); }
+table tbody { border-bottom: 2px solid var(--academic-ink); }
+table :is(th, td) { padding: .6rem .7rem; vertical-align: top; }
+.table { --bs-table-bg: transparent; --bs-table-color: var(--academic-ink); }
+.table-responsive { overflow-x: auto; }
+
+code, pre { font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace; }
+:not(pre) > code {
+  background: var(--academic-wash);
+  color: #574735;
+  font-size: .85em;
+  padding: .1em .25em;
+  border-radius: 3px;
+}
+pre { font-size: .8rem; line-height: 1.6; }
+div.sourceCode {
+  background: var(--academic-wash);
+  border: 1px solid var(--academic-rule);
+  border-radius: 4px;
+}
+audio { display: block; width: 100%; margin: 1rem 0; }
+
+#TOC {
+  font-family: var(--academic-sans);
+  font-size: .8rem;
+  line-height: 1.5;
+}
+#TOC a { color: var(--academic-muted); text-decoration: none; }
+#TOC a.active { color: var(--academic-accent); font-weight: 600; }
+
+@media (max-width: 767px) {
+  body { font-size: 17px; line-height: 1.7; }
+  main h1 { font-size: 1.9rem; }
+  main h2 { font-size: 1.4rem; }
+  #title-block-header { margin-top: 1rem; }
+}
+
+@media print {
+  @page { margin: 20mm; }
+  body { background: white; color: black; font-size: 11pt; line-height: 1.5; }
+  #quarto-margin-sidebar, #quarto-sidebar, .navbar, .tippy-box,
+  .anchorjs-link, .code-copy-button, audio { display: none !important; }
+  #quarto-content { display: block !important; }
+  main.content { width: 100% !important; max-width: none !important; padding: 0; }
+  #title-block-header { margin-top: 0; }
+  a { color: black; }
+  h1, h2, h3, h4 { break-after: avoid; }
+  figure, blockquote, tr { break-inside: avoid; }
+  p { orphans: 3; widows: 3; }
+}
