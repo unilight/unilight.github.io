@@ -281,7 +281,13 @@ sass:
 # -----------------------------------------------------------------------------
 
 jekyll-minifier:
-  exclude: ["robots.txt", "assets/js/search/*.js"]
+  exclude:
+    - "robots.txt"
+    - "assets/js/search/*.js"
+    # Quarto ships browser-ready assets that the legacy Uglifier cannot parse.
+    - "essays/sqa-granularity/index.html"
+    - "essays/sqa-granularity/academic.css"
+    - "essays/sqa-granularity/sqa-granularity_files/**/*"
   uglifier_args:
     harmony: true
 
