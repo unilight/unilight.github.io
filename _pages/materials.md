@@ -2,10 +2,14 @@
 layout: page
 permalink: /materials/
 title: Materials
-description: Materials for courses I taught or talks I gave.
+description: Theses, essays, and materials for courses I taught or talks I gave.
 nav: true
 nav_order: 6
 ---
+
+## Essays
+
+- [On the Granularity of Speech Quality Assessment]({{ '/essays/sqa-granularity/' | relative_url }})
 
 ## Theses
 
